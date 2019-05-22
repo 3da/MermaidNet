@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Authors>3DA</Authors>
+    <PackageLicenseUrl>https://github.com/3da/MermaidNet/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/3da/MermaidNet</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/3da/MermaidNet</RepositoryUrl>
+    <PackageTags>mermaid js</PackageTags>
+    <Description>Generator for mermaid markup syntax</Description>
+  </PropertyGroup>
+
+</Project>
